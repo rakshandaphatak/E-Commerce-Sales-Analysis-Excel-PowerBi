@@ -31,7 +31,7 @@ The company needs to track and analyze sales and profit trends over multiple yea
 - **Excel**: Data cleaning and preparation  
 - **Power BI**: Data visualization and dashboard building
 
-  # Data Cleaning and preparation
+  # Data Cleaning and Preparation
 
 1. **Removed Duplicates** – Ensured no duplicate sales records were present.  
 3. **Data Type Correction** – Converted columns like Order Date into proper Date format, Sales/Profit into numeric type.  
@@ -44,7 +44,7 @@ The company needs to track and analyze sales and profit trends over multiple yea
 
 -  In 2014, both **sales and profit showed strong growth** compared to previous years.  
 - In 2012, **sales were lower**, but **profit margins were higher relative to sales**, indicating better cost efficiency.  
-- In the **South region**, sales contribution was **highest in 2011**compared to following years, but gradually declined in the following years.  
+- In the **South region**, sales contribution was **highest in 2011** compared to following years, but gradually declined in the following years.  
 - The **Technology** and **Office Supplies** categories contributed the most to total sales.    
 - Some regions with high sales volumes still show **low profitability**, highlighting operational inefficiencies.
 
@@ -69,6 +69,6 @@ The company needs to track and analyze sales and profit trends over multiple yea
 - Maintain regular monitoring of sales and profit trends through the dashboard for better decision-making.
 
 # Author & Contact 
-Rakshanda Rajesh Phatak
-Email: rakshanda5193@gmail.com
+Rakshanda Rajesh Phatak                                                                                                                                                                                                                                                     
+Email: rakshanda5193@gmail.com                                                                                                                                                                                                                                                          
 Linkedin:https://www.linkedin.com/in/rakshanda-phatak/
