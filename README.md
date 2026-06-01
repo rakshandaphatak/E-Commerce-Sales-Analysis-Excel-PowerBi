@@ -1,6 +1,11 @@
 # E-Commerce Sales Analysis
 This project analyzes e-commerce sales and finance performance. The goal is to identify sales trends, profit drivers, and regional performance using Excel and Power BI.
 
+# Interactive Dashboard
+
+[Click here to View Dashboard](https://app.powerbi.com/groups/me/reports/24307376-0885-43ff-90df-b8f755ad3cef/25f6b6145e29785e0ea4?experience=power-bi)
+
+
 # Table Of Contents
 1. Project Overview 
 2. Business Problem  
